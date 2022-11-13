@@ -1,7 +1,5 @@
 # BotStatus
-Updates your bot status in the message, every two hours.
-
-**_NOTE:_** This branch needs to be hosted to work. If you prefer to host on GitHub WorkFlows, visit [the other branch](https://github.com/xditya/BotStatus/tree/gh-wf).
+Updates your bot status in the message, every two hours
 
 # Variables.
 
